@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Hossam! 👋
 
-<!--
-**hoossm/hoossm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇪🇬 25-year-old developer from Cairo, Egypt.
 
-Here are some ideas to get you started:
+💻 **Currently focused on Full-Stack Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Self-studying and building projects to improve my skills.
+- 🛠️ Learning by doing, breaking things, and fixing them.
+- 🎮 Gaming is my other favorite way to spend time.
+- 🐱 Proud cat lover.
+- 🧠 ADHD brain, endless curiosity, and a questionable number of tabs open 😂
+
+### My philosophy
+> Keep learning. Keep building. Never stop being curious.
+
+Thanks for stopping by! 🚀
