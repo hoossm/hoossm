@@ -5,7 +5,7 @@
 💻 **Currently focused on Full-Stack Development**
 
 - 🌱 Self-studying and building projects to improve my skills.
-- 🛠️ Learning by doing, breaking things, and fixing them.
+- 🛠️ Learning by doing what i love.
 - 🎮 Gaming is my other favorite way to spend time.
 - 🐱 Proud cat lover.
 - 🧠 ADHD brain, endless curiosity, and a questionable number of tabs open 😂
